@@ -1,30 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+_Hey there! My name's Darren Thompson and thanks for visiting my little corner of the internet!_
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a full stack software developer by trade living in Toronto, Canada. I'm currently working on cool tech for sports fans [@theScore](https://twitter.com/theScore). I have also worked in banking, education.
 
-There are currently two themes built on Poole:
+I am skilled in all things Javascript, and I love working with ReactJS, Elixir/Pheonix and Rust. Constantly on a mission to learn new things and explore out of my comfort zone. I have many interests, some being Functional Programming, UX, [Making/Hacking (in the constructive sense)](https://en.wikipedia.org/wiki/Hackerspace), Robotics, Embedded Systems, and Games.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Follow me on twitter [@DiscoStarslayer](https://twitter.com/DiscoStarslayer). I've also got a [GitHub](https://github.com/DiscoStarslayer) page with some of my projects.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Have any questions or comments? Reach out to my Twitter inbox or send me an [E-Mail](mailto:me@dtho.mp)!
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+**All posts and opinions here are my own, and not the views of my employer.**
