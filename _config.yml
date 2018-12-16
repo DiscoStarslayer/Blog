@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            "DiscoStarslayer's Starship NOP"
+title:            "Starship NOP"
 tagline:          "Darren's personal blog"
-description:      'Star Slaying and Bee Gees'
+description:      "Star Slaying and Bee Gees"
 url:              https://dtho.mp
 baseurl:          /
 
