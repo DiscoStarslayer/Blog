@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            "Starship NOP"
 tagline:          "Darren's personal blog"
 description:      "Star Slaying and Bee Gees"
-url:              https://dtho.mp
+url:              https://blog.dtho.mp
 baseurl:          /
 
 author:
