@@ -5,9 +5,9 @@ title: About Me
 
 _Hey there! My name's Darren Thompson and thanks for visiting my little corner of the internet!_
 
-I am a full stack software developer by trade living in Toronto, Canada. I'm currently working on cool tech for sports fans [@theScore](https://twitter.com/theScore). I have also worked in banking, education.
+I am a full stack software developer by trade living in Toronto, Canada. I'm currently working on cool tech for sports fans [@theScore](https://twitter.com/theScore).
 
-I am skilled in all things Javascript, and I love working with ReactJS, Elixir/Pheonix and Rust. Constantly on a mission to learn new things and explore out of my comfort zone. I have many interests, some being Functional Programming, UX, [Making/Hacking (in the constructive sense)](https://en.wikipedia.org/wiki/Hackerspace), Robotics, Embedded Systems, and Games.
+I am skilled in all things Javascript, and I love working with ReactJS, Elixir/Pheonix and Rust. Constantly on a mission to learn new things and explore out of my comfort zone. I have many interests, some being Functional Programming, UX, [Making/Hacking (in the constructive sense)](https://en.wikipedia.org/wiki/Hackerspace), Embedded Systems, and Games.
 
 Follow me on twitter [@DiscoStarslayer](https://twitter.com/DiscoStarslayer). I've also got a [GitHub](https://github.com/DiscoStarslayer) page with some of my projects.
 
