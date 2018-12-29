@@ -5,7 +5,8 @@ title: Xbox Open-Source Video Project
 
 ![XOSVP Side](/public/images/xosvp-side.jpg)
 
-The following is an indepth run through on _why_ the XOSVP exists. If you just want to see results, then [**CLICK HERE!**](#results)
+### <b>The following is an indepth run through on _why_ the XOSVP exists. If you just want to see results, then [**CLICK HERE!**](#results)</b>.
+### Want one? [Send me an email!](mailto:me@dtho.mp)
 
 I think the Xbox is one of the most interesting consoles in existence today. Not because it has many great exclusives (it does). Not because it has the best quality ports of the 6th generation (it does). And not because I owned one as a kid (I didn't).
 
@@ -84,6 +85,23 @@ Noise is not the only thing reduced, the following captures show 10s of signal p
 ### XOSVP
 ![XOSVP](/public/images/xosvp-jit.png)
 
+## Video Results
+
+So what does that mean to the actual video quality? Crisper clearer picture with much less noise, more accurate colors, and greater sharpness in noisy scenes.
+
+Take a look at this zoomed-in screenshot from Jet Set Radio Future
+![Jet Set Radio Future Comparison](/public/images/comparison.png)
+
+It's probably clear from the lack of noise, but the left image is the XOSVP, while the right image is from the 3rd Party Component cable. Notice the severe random noise on the screenshot to the right.
+
+Pay close attention to the hard edges between the buildings and the sky, they are much softer compared to the XOSVP which renders the edges more accurately. You may also notice an overall greenish dark hue throughout the picture on the right, most noticeably on the white satellite dishes. All these enhancements make the overall picture much brighter, livelier and crisper on the XOSVP. [Compare the full screen captures on my codepen here](https://codepen.io/DiscoStarslayer/full/gZGXqa).
+
+Sometimes it helps to see things in motion, so I also spent some time capturing video of the XOSVP and uploaded them with the highest possible quality to YouTube. Make sure you increase the quality setting to reduce the amount of compression noise in the video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wbQQEpVEnnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There are more of these videos on my [YouTube Channel](https://www.youtube.com/user/WhiteDawn/featured).
+
 # Open-Source
 I want to make this project open-source. My full-time job is working as a software developer, and over the past year I've been teaching myself hardware + electronics and using this as my first real project for fun. Working in software has made me appreciate the power of open-source and I feel hardware design needs a stronger push for the same privileges and this is one of my small contributions.
 
@@ -119,3 +137,7 @@ Hopefully, the XOSVP is cool and useful to you, I had a lot of fun making it. I 
 
 ![final shot](/public/images/with-case-side-1.jpg)
 ![final shot](/public/images/with-case-side-2.jpg)
+
+# Early Adopter Signup
+
+The XOSVP will be available very soon to the public, but I am looking for people who are interested in the first production run of the XOSVP and to gauge interest. If you have any interest please [send me an email](mailto:me@dtho.mp) mentioning whether you'd rather a kit or a complete unit, and I'll be sure to let you have first dibs once they're available.
