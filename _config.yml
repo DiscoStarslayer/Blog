@@ -13,6 +13,10 @@ description:      "Star Slaying and Bee Gees"
 url:              https://blog.dtho.mp
 baseurl:          /
 
+twitter:
+  username: DiscoStarslayer
+  card: summary
+
 author:
   name:           'Darren Thompson'
   url:            https://twitter.com/DiscoStarslayer
@@ -25,8 +29,12 @@ version:          1.0.0
 github:
   repo:           https://github.com/DiscoStarslayer/blog
 
+social:
+  name: DiscoStarslayer
+
 plugins:
-  - jekyll-paginate
-  - redcarpet
   - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
   - pygments.rb
+  - redcarpet
