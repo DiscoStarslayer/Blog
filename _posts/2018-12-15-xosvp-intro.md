@@ -3,7 +3,6 @@ layout: post
 title: Xbox Open-Source Video Project
 description: Open-Source high quality original xbox video replacement solution
 image: https://blog.dtho.mp/public/images/xosvp-side.jpg
-
 ---
 
 ![XOSVP Side](/public/images/xosvp-side.jpg)

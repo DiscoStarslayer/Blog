@@ -63,3 +63,18 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+.mc_embed_signup {
+    clear: left; 
+    color: #fff;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.mc_embed_signup_scroll {
+    padding: 0;
+}
+
+.mc_embed_signup_scroll h4 {
+    color: #fff;
+}
